@@ -57,12 +57,6 @@ void draw () {
     
   updatePixels();
   
-  //fill(mr,mg,mb);
-  ////fill(0);
-  //stroke(255,0,0);
-  //strokeWeight(2);
-  //ellipse(stx, sty, 10, 10);
-  
   if (leastdist > 0) {
     fill(mr,mg,mb);
     //fill(0);
